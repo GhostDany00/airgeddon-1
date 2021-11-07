@@ -12,7 +12,7 @@
 
 #Language vars
 #Change this line to select another default language. Select one from available values in array
-language="ENGLISH"
+language="ITALIAN"
 declare -A lang_association=(
 								["en"]="ENGLISH"
 								["es"]="SPANISH"
